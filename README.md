@@ -23,7 +23,7 @@ Mi objetivo es seguir creciendo como **desarrollador full stack**, combinando un
  
 <img src="https://skillicons.dev/icons?i=cpp,cs,visualstudio"/>
   
- <a href="mailto:https://github.com/RDBZ12/Sistema-de-nomina-de-empleados-archivos-txt.git">
+ <a href="https://github.com/RDBZ12/Sistema-de-nomina-de-empleados-archivos-txt.git">
 <img src="https://skillicons.dev/icons?i=java"/>
 <img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> 
