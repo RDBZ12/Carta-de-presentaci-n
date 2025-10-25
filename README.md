@@ -17,7 +17,7 @@ Mi objetivo es seguir creciendo como **desarrollador full stack**, combinando un
 
 ---
 
-### 🧰 Tecnologías y herramientas
+### Lenguajes y Herramientas 🛠
 
 <p align="center">
   
