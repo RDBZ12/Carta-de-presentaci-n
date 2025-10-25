@@ -63,7 +63,7 @@ Aplicación desarrollada en Java para calcular y gestionar los pagos de empleado
 <p align="center">
   <a href="mailto:robertoangel2223@gmail.com">
         
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail "/>
   </a>
   <a href="https://www.linkedin.com/in/roberto-angel-diaz-gomez-5422582ba">
   
