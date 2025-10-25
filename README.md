@@ -11,7 +11,7 @@ Comencé mi camino con **C++**, donde adquirí las bases de la programación est
 Más adelante desarrollé un proyecto de **nómina de empleados en Java**, trabajando con **archivos de texto (TXT)** para el manejo de datos.  
 
 Actualmente, estoy desarrollando un **sistema de ventas y control de inventario en C# con .NET Framework y SQL Server**, como parte de un proyecto universitario.  
-Además, completé el curso **"Fundamentos de Soporte de TI" de Google**, lo que reforzó mis conocimientos en redes, hardware y soporte técnico.
+Además, completé el curso **"Fundamentos de Soporte de TI" de Google"**, lo que reforzó mis conocimientos en redes, hardware y soporte técnico.
 
 Mi objetivo es seguir creciendo como **desarrollador full stack**, combinando una sólida lógica de programación con un enfoque práctico y orientado a resultados.
 
