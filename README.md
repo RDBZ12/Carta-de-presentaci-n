@@ -6,47 +6,54 @@
 
 ### 🚀 Sobre mí
 
-Soy estudiante de **Ingeniería en Sistemas** (mitad de carrera), apasionado por la tecnología y el desarrollo de software.  
-Mi camino comenzó con **C++**, luego realicé un proyecto completo en **Java** utilizando **archivos TXT**, y actualmente desarrollo un sistema universitario en **C# (.NET Framework)** con **SQL Server** como base de datos.
+Soy estudiante de **Ingeniería en Sistemas** (actualmente a mitad de carrera), apasionado por el desarrollo de software y las nuevas tecnologías.  
+Comencé mi camino con **C++**, donde adquirí las bases de la programación estructurada.  
+Más adelante desarrollé un proyecto de **nómina de empleados en Java**, trabajando con **archivos de texto (TXT)** para el manejo de datos.  
 
-También completé el curso **"Fundamentos de Soporte de TI" de Google**, lo que fortaleció mis conocimientos en redes, hardware y soporte técnico.
+Actualmente, estoy desarrollando un **sistema de ventas y control de inventario en C# con .NET Framework y SQL Server**, como parte de un proyecto universitario.  
+Además, completé el curso **"Fundamentos de Soporte de TI" de Google**, lo que reforzó mis conocimientos en redes, hardware y soporte técnico.
 
-Busco seguir creciendo como **desarrollador full stack**, combinando una buena lógica de programación con un diseño funcional y claro.
+Mi objetivo es seguir creciendo como **desarrollador full stack**, combinando una sólida lógica de programación con un enfoque práctico y orientado a resultados.
 
 ---
 
 ### 🧰 Tecnologías y herramientas
 
 <p align="center">
-  <!-- Lenguajes -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
 ### 🏗️ Proyectos Destacados
 
-#### 🧩 Sistema de gestión universitaria (.NET + SQL Server)
-Desarrollo de un sistema CRUD con roles, usuarios, ventanas y mantenimiento de datos.  
-> 🔹 Tecnologías: C#, .NET Framework, SQL Server, Windows Forms  
-> 🔹 Enfoque en arquitectura y manejo de base de datos  
+#### 💼 Sistema de Ventas y Control de Inventario (.NET + SQL Server)
+Proyecto universitario enfocado en la gestión de ventas, clientes, productos y control de inventario.  
+Incluye módulos de autenticación, mantenimiento, roles y permisos.  
+> 🔹 **Tecnologías:** C#, .NET Framework, SQL Server, Windows Forms  
+> 🔹 **Rol:** Desarrollador principal  
+> 🔹 **Objetivo:** Fortalecer la lógica CRUD y el manejo de base de datos relacional
 
-#### 📁 Proyecto en Java con Archivos TXT
-Aplicación de escritorio para gestión básica utilizando archivos de texto plano.  
-> 🔹 Tecnologías: Java, Programación orientada a objetos, manejo de archivos  
+---
+
+#### 🧾 Sistema de Nómina de Empleados (Java + Archivos TXT)
+Aplicación desarrollada en Java para calcular y gestionar los pagos de empleados utilizando archivos de texto como almacenamiento.  
+> 🔹 **Tecnologías:** Java, Programación Orientada a Objetos, Archivos TXT  
+> 🔹 **Rol:** Desarrollador completo  
+> 🔹 **Objetivo:** Aplicar POO y manejo de archivos en proyectos reales
 
 ---
 
 ### 📈 Actualmente aprendiendo
-- Desarrollo **Full Stack** con **.NET** y **bases de datos relacionales**  
-- Mejores prácticas en **estructuras de software**  
-- Fundamentos de **API REST** y **front-end moderno**
+- Desarrollo **Full Stack** con **.NET Framework** y **bases de datos SQL Server**  
+- Fundamentos de **API REST** y **arquitectura de software**  
+- Buenas prácticas en **diseño y documentación de sistemas**
 
 ---
 
@@ -67,14 +74,15 @@ Aplicación de escritorio para gestión básica utilizando archivos de texto pla
 ---
 
 ### ⚡ Datos curiosos
-- Me gusta aprender nuevas tecnologías por cuenta propia.  
-- Creo firmemente que **la lógica y la práctica constante** son la base de todo programador.  
-- Estoy construyendo mi camino hacia ser un **profesional en desarrollo de software**.
+- Me gusta aprender de forma práctica y constante.  
+- Disfruto trabajar en proyectos donde puedo aplicar lo que aprendo en la universidad.  
+- Creo que **la mejor forma de mejorar es programando todos los días**.
 
 ---
 
 > 💬 *“El código es como el arte: mejora con la práctica, la pasión y la paciencia.”*
 
 ---
+
 
 
