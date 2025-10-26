@@ -8,7 +8,7 @@
 
 Soy estudiante de **Ingeniería en Sistemas** (actualmente a mitad de carrera), apasionado por el desarrollo de software y las nuevas tecnologías.  
 Comencé mi camino con **C++**, donde adquirí las bases de la programación estructurada.  
-Más adelante desarrollé un proyecto de **nómina de empleados en Java**, trabajando con **archivos de texto (TXT)** para el manejo de datos.  
+Más adelante desarrollé un proyecto de **nómina de empleados en Java**,disponible en mi repositorio proyecto Java, trabajando con **archivos de texto (TXT)** para el manejo de datos.  
 
 Actualmente, estoy desarrollando un **sistema de ventas y control de inventario en C# con .NET Framework y SQL Server**, como parte de un proyecto universitario.  
 Además, completé el curso **"Fundamentos de Soporte de TI" de Google"**, lo que reforzó mis conocimientos en redes, hardware y soporte técnico.
