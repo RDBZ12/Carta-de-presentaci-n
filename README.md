@@ -22,7 +22,7 @@ Mi objetivo es seguir creciendo como **desarrollador full stack**, combinando un
 <p align="center">
  
 <img src="https://skillicons.dev/icons?i=cpp,cs,visualstudio"/>
- <a href="(https://github.com/RDBZ12/Proyecto-java.git)">
+ <a href="https://github.com/RDBZ12/Proyecto-java.git">
 <img src="https://skillicons.dev/icons?i=java"/> </a>
 
 
