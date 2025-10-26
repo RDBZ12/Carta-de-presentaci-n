@@ -22,7 +22,7 @@ Mi objetivo es seguir creciendo como **desarrollador full stack**, combinando un
 <p align="center">
  
 <img src="https://skillicons.dev/icons?i=cpp,cs,visualstudio"/>
- <a href="(https://github.com/RDBZ12/Proyecto-java/tree/8e6b2b53dfd535ca1bda83ffdb90adad3e6ece7e/OneDrive/Escritorio/trabajos/Nueva%20carpeta%20(2)/NetBeansProjects)">
+ <a href="(OneDrive/Escritorio/trabajos/Nueva carpeta (2)/NetBeansProjects/trabajo_Nomina)">
 <img src="https://skillicons.dev/icons?i=java"/> </a>
 
 
