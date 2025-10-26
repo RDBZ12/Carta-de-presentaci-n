@@ -22,9 +22,8 @@ Mi objetivo es seguir creciendo como **desarrollador full stack**, combinando un
 <p align="center">
  
 <img src="https://skillicons.dev/icons?i=cpp,cs,visualstudio"/>
- <a href="(dist/trabajo_Nomina.jar)">
-<img src="https://skillicons.dev/icons?i=java"/>
-
+ <a href="(https://github.com/RDBZ12/Proyecto-java/tree/8e6b2b53dfd535ca1bda83ffdb90adad3e6ece7e/OneDrive/Escritorio/trabajos/Nueva%20carpeta%20(2)/NetBeansProjects)">
+<img src="https://skillicons.dev/icons?i=java"/> </a>
 
 
 <img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
